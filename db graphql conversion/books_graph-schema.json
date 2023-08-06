@@ -1,0 +1,613 @@
+{
+  "books": [
+    {
+      "book_title": "Genesis",
+      "book_long_title": "The First Book of Moses called Genesis",
+      "book_subtitle": "",
+      "book_short_title": "Gen.",
+      "book_lds_url": "gen"
+    },
+    {
+      "book_title": "Exodus",
+      "book_long_title": "The Second Book of Moses called Exodus",
+      "book_subtitle": "",
+      "book_short_title": "Ex.",
+      "book_lds_url": "ex"
+    },
+    {
+      "book_title": "Leviticus",
+      "book_long_title": "The Third Book of Moses called Leviticus",
+      "book_subtitle": "",
+      "book_short_title": "Lev.",
+      "book_lds_url": "lev"
+    },
+    {
+      "book_title": "Numbers",
+      "book_long_title": "The Fourth Book of Moses called Numbers",
+      "book_subtitle": "",
+      "book_short_title": "Num.",
+      "book_lds_url": "num"
+    },
+    {
+      "book_title": "Deuteronomy",
+      "book_long_title": "The Fifth Book of Moses called Deuteronomy",
+      "book_subtitle": "",
+      "book_short_title": "Deut.",
+      "book_lds_url": "deut"
+    },
+    {
+      "book_title": "Joshua",
+      "book_long_title": "The Book of Joshua",
+      "book_subtitle": "",
+      "book_short_title": "Josh.",
+      "book_lds_url": "josh"
+    },
+    {
+      "book_title": "Judges",
+      "book_long_title": "The Book of Judges",
+      "book_subtitle": "",
+      "book_short_title": "Judg.",
+      "book_lds_url": "judg"
+    },
+    {
+      "book_title": "Ruth",
+      "book_long_title": "The Book of Ruth",
+      "book_subtitle": "",
+      "book_short_title": "Ruth",
+      "book_lds_url": "ruth"
+    },
+    {
+      "book_title": "1 Samuel",
+      "book_long_title": "The First Book of Samuel",
+      "book_subtitle": "Otherwise called the First Book of the Kings",
+      "book_short_title": "1 Sam.",
+      "book_lds_url": "1-sam"
+    },
+    {
+      "book_title": "2 Samuel",
+      "book_long_title": "The Second Book of Samuel",
+      "book_subtitle": "Otherwise called the Second Book of the Kings",
+      "book_short_title": "2 Sam.",
+      "book_lds_url": "2-sam"
+    },
+    {
+      "book_title": "1 Kings",
+      "book_long_title": "The First Book of the Kings",
+      "book_subtitle": "Commonly called the Third Book of the Kings",
+      "book_short_title": "1 Kgs.",
+      "book_lds_url": "1-kgs"
+    },
+    {
+      "book_title": "2 Kings",
+      "book_long_title": "The Second Book of the King",
+      "book_subtitle": "Commonly called the Fourth Book of the Kings",
+      "book_short_title": "2 Kgs.",
+      "book_lds_url": "2-kgs"
+    },
+    {
+      "book_title": "1 Chronicles",
+      "book_long_title": "The First Book of the Chronicles",
+      "book_subtitle": "",
+      "book_short_title": "1 Chr.",
+      "book_lds_url": "1-chr"
+    },
+    {
+      "book_title": "2 Chronicles",
+      "book_long_title": "The Second Book of the Chronicles",
+      "book_subtitle": "",
+      "book_short_title": "2 Chr.",
+      "book_lds_url": "2-chr"
+    },
+    {
+      "book_title": "Ezra",
+      "book_long_title": "Ezra",
+      "book_subtitle": "",
+      "book_short_title": "Ezra",
+      "book_lds_url": "ezra"
+    },
+    {
+      "book_title": "Nehemiah",
+      "book_long_title": "The Book of Nehemiah",
+      "book_subtitle": "",
+      "book_short_title": "Neh.",
+      "book_lds_url": "neh"
+    },
+    {
+      "book_title": "Esther",
+      "book_long_title": "The Book of Esther",
+      "book_subtitle": "",
+      "book_short_title": "Esth.",
+      "book_lds_url": "esth"
+    },
+    {
+      "book_title": "Job",
+      "book_long_title": "The Book of Job",
+      "book_subtitle": "",
+      "book_short_title": "Job",
+      "book_lds_url": "job"
+    },
+    {
+      "book_title": "Psalms",
+      "book_long_title": "The Book of Psalms",
+      "book_subtitle": "",
+      "book_short_title": "Ps.",
+      "book_lds_url": "ps"
+    },
+    {
+      "book_title": "Proverbs",
+      "book_long_title": "The Proverbs",
+      "book_subtitle": "",
+      "book_short_title": "Prov.",
+      "book_lds_url": "prov"
+    },
+    {
+      "book_title": "Ecclesiastes",
+      "book_long_title": "Ecclesiastes or, The Preacher",
+      "book_subtitle": "",
+      "book_short_title": "Eccl.",
+      "book_lds_url": "eccl"
+    },
+    {
+      "book_title": "Solomon's Song",
+      "book_long_title": "The Song of Solomon",
+      "book_subtitle": "",
+      "book_short_title": "Song.",
+      "book_lds_url": "song"
+    },
+    {
+      "book_title": "Isaiah",
+      "book_long_title": "The Book of the Prophet Isaiah",
+      "book_subtitle": "",
+      "book_short_title": "Isa.",
+      "book_lds_url": "isa"
+    },
+    {
+      "book_title": "Jeremiah",
+      "book_long_title": "The Book of the Prophet Jeremiah",
+      "book_subtitle": "",
+      "book_short_title": "Jer.",
+      "book_lds_url": "jer"
+    },
+    {
+      "book_title": "Lamentations",
+      "book_long_title": "The Lamentations of Jeremiah",
+      "book_subtitle": "",
+      "book_short_title": "Lam.",
+      "book_lds_url": "lam"
+    },
+    {
+      "book_title": "Ezekiel",
+      "book_long_title": "The Book of the Prophet Ezekiel",
+      "book_subtitle": "",
+      "book_short_title": "Ezek.",
+      "book_lds_url": "ezek"
+    },
+    {
+      "book_title": "Daniel",
+      "book_long_title": "The Book of Daniel",
+      "book_subtitle": "",
+      "book_short_title": "Dan.",
+      "book_lds_url": "dan"
+    },
+    {
+      "book_title": "Hosea",
+      "book_long_title": "Hosea",
+      "book_subtitle": "",
+      "book_short_title": "Hosea",
+      "book_lds_url": "hosea"
+    },
+    {
+      "book_title": "Joel",
+      "book_long_title": "Joel",
+      "book_subtitle": "",
+      "book_short_title": "Joel",
+      "book_lds_url": "joel"
+    },
+    {
+      "book_title": "Amos",
+      "book_long_title": "Amos",
+      "book_subtitle": "",
+      "book_short_title": "Amos",
+      "book_lds_url": "amos"
+    },
+    {
+      "book_title": "Obadiah",
+      "book_long_title": "Obadiah",
+      "book_subtitle": "",
+      "book_short_title": "Obad.",
+      "book_lds_url": "obad"
+    },
+    {
+      "book_title": "Jonah",
+      "book_long_title": "Jonah",
+      "book_subtitle": "",
+      "book_short_title": "Jonah",
+      "book_lds_url": "jonah"
+    },
+    {
+      "book_title": "Micah",
+      "book_long_title": "Micah",
+      "book_subtitle": "",
+      "book_short_title": "Micah",
+      "book_lds_url": "micah"
+    },
+    {
+      "book_title": "Nahum",
+      "book_long_title": "Nahum",
+      "book_subtitle": "",
+      "book_short_title": "Nahum",
+      "book_lds_url": "nahum"
+    },
+    {
+      "book_title": "Habakkuk",
+      "book_long_title": "Habakkuk",
+      "book_subtitle": "",
+      "book_short_title": "Hab.",
+      "book_lds_url": "hab"
+    },
+    {
+      "book_title": "Zephaniah",
+      "book_long_title": "Zephaniah",
+      "book_subtitle": "",
+      "book_short_title": "Zeph.",
+      "book_lds_url": "zeph"
+    },
+    {
+      "book_title": "Haggai",
+      "book_long_title": "Haggai",
+      "book_subtitle": "",
+      "book_short_title": "Hag.",
+      "book_lds_url": "hag"
+    },
+    {
+      "book_title": "Zechariah",
+      "book_long_title": "Zechariah",
+      "book_subtitle": "",
+      "book_short_title": "Zech.",
+      "book_lds_url": "zech"
+    },
+    {
+      "book_title": "Malachi",
+      "book_long_title": "Malachi",
+      "book_subtitle": "",
+      "book_short_title": "Mal.",
+      "book_lds_url": "mal"
+    },
+    {
+      "book_title": "Matthew",
+      "book_long_title": "The Gospel According to St Matthew",
+      "book_subtitle": "",
+      "book_short_title": "Matt.",
+      "book_lds_url": "matt"
+    },
+    {
+      "book_title": "Mark",
+      "book_long_title": "The Gospel According to St Mark",
+      "book_subtitle": "",
+      "book_short_title": "Mark",
+      "book_lds_url": "mark"
+    },
+    {
+      "book_title": "Luke",
+      "book_long_title": "The Gospel According to St Luke",
+      "book_subtitle": "",
+      "book_short_title": "Luke",
+      "book_lds_url": "luke"
+    },
+    {
+      "book_title": "John",
+      "book_long_title": "The Gospel According to St John",
+      "book_subtitle": "",
+      "book_short_title": "John",
+      "book_lds_url": "john"
+    },
+    {
+      "book_title": "Acts",
+      "book_long_title": "The Acts of the Apostles",
+      "book_subtitle": "",
+      "book_short_title": "Acts",
+      "book_lds_url": "acts"
+    },
+    {
+      "book_title": "Romans",
+      "book_long_title": "The Epistle of Paul the Apostle to the Romans",
+      "book_subtitle": "",
+      "book_short_title": "Rom.",
+      "book_lds_url": "rom"
+    },
+    {
+      "book_title": "1 Corinthians",
+      "book_long_title": "The First Epistle of Paul the Apostle to the Corinthians",
+      "book_subtitle": "",
+      "book_short_title": "1 Cor.",
+      "book_lds_url": "1-cor"
+    },
+    {
+      "book_title": "2 Corinthians",
+      "book_long_title": "The Second Epistle of Paul the Apostle to the Corinthians",
+      "book_subtitle": "",
+      "book_short_title": "2 Cor.",
+      "book_lds_url": "2-cor"
+    },
+    {
+      "book_title": "Galatians",
+      "book_long_title": "The Epistle of Paul the Apostle to the Galatians",
+      "book_subtitle": "",
+      "book_short_title": "Gal.",
+      "book_lds_url": "gal"
+    },
+    {
+      "book_title": "Ephesians",
+      "book_long_title": "The Epistle of Paul the Apostle to the Ephesians",
+      "book_subtitle": "",
+      "book_short_title": "Eph.",
+      "book_lds_url": "eph"
+    },
+    {
+      "book_title": "Philippians",
+      "book_long_title": "The Epistle of Paul the Apostle to the Philippians",
+      "book_subtitle": "",
+      "book_short_title": "Philip.",
+      "book_lds_url": "philip"
+    },
+    {
+      "book_title": "Colossians",
+      "book_long_title": "The Epistle of Paul the Apostle to the Colossians",
+      "book_subtitle": "",
+      "book_short_title": "Col.",
+      "book_lds_url": "col"
+    },
+    {
+      "book_title": "1 Thessalonians",
+      "book_long_title": "The First Epistle of Paul the Apostle to the Thessalonians",
+      "book_subtitle": "",
+      "book_short_title": "1 Thes.",
+      "book_lds_url": "1-thes"
+    },
+    {
+      "book_title": "2 Thessalonians",
+      "book_long_title": "The Second Epistle of Paul the Apostle to the Thessalonians",
+      "book_subtitle": "",
+      "book_short_title": "2 Thes.",
+      "book_lds_url": "2-thes"
+    },
+    {
+      "book_title": "1 Timothy",
+      "book_long_title": "The First Epistle of Paul the Apostle to Timothy",
+      "book_subtitle": "",
+      "book_short_title": "1 Tim.",
+      "book_lds_url": "1-tim"
+    },
+    {
+      "book_title": "2 Timothy",
+      "book_long_title": "The Second Epistle of Paul the Apostle to Timothy",
+      "book_subtitle": "",
+      "book_short_title": "2 Tim.",
+      "book_lds_url": "2-tim"
+    },
+    {
+      "book_title": "Titus",
+      "book_long_title": "The Epistle of Paul to Titus",
+      "book_subtitle": "",
+      "book_short_title": "Titus",
+      "book_lds_url": "titus"
+    },
+    {
+      "book_title": "Philemon",
+      "book_long_title": "The Epistle of Paul to Philemon",
+      "book_subtitle": "",
+      "book_short_title": "Philem.",
+      "book_lds_url": "philem"
+    },
+    {
+      "book_title": "Hebrews",
+      "book_long_title": "The Epistle of Paul to the Hebrews",
+      "book_subtitle": "",
+      "book_short_title": "Heb.",
+      "book_lds_url": "heb"
+    },
+    {
+      "book_title": "James",
+      "book_long_title": "The General Epistle of James",
+      "book_subtitle": "",
+      "book_short_title": "James",
+      "book_lds_url": "james"
+    },
+    {
+      "book_title": "1 Peter",
+      "book_long_title": "The First Epistle General of Peter",
+      "book_subtitle": "",
+      "book_short_title": "1 Pet.",
+      "book_lds_url": "1-pet"
+    },
+    {
+      "book_title": "2 Peter",
+      "book_long_title": "The Second Epistle General of Peter",
+      "book_subtitle": "",
+      "book_short_title": "2 Pet.",
+      "book_lds_url": "2-pet"
+    },
+    {
+      "book_title": "1 John",
+      "book_long_title": "The First Epistle General of John",
+      "book_subtitle": "",
+      "book_short_title": "1 Jn.",
+      "book_lds_url": "1-jn"
+    },
+    {
+      "book_title": "2 John",
+      "book_long_title": "The Second Epistle of John",
+      "book_subtitle": "",
+      "book_short_title": "2 Jn.",
+      "book_lds_url": "2-jn"
+    },
+    {
+      "book_title": "3 John",
+      "book_long_title": "The Third Epistle of John",
+      "book_subtitle": "",
+      "book_short_title": "3 Jn.",
+      "book_lds_url": "3-jn"
+    },
+    {
+      "book_title": "Jude",
+      "book_long_title": "The General Epistle of Jude",
+      "book_subtitle": "",
+      "book_short_title": "Jude",
+      "book_lds_url": "jude"
+    },
+    {
+      "book_title": "Revelation",
+      "book_long_title": "The Revelation of St John the Divine",
+      "book_subtitle": "",
+      "book_short_title": "Rev.",
+      "book_lds_url": "rev"
+    },
+    {
+      "book_title": "1 Nephi",
+      "book_long_title": "The First Book of Nephi",
+      "book_subtitle": "His Reign and Ministry",
+      "book_short_title": "1 Ne.",
+      "book_lds_url": "1-ne"
+    },
+    {
+      "book_title": "2 Nephi",
+      "book_long_title": "The Second Book of Nephi",
+      "book_subtitle": "",
+      "book_short_title": "2 Ne.",
+      "book_lds_url": "2-ne"
+    },
+    {
+      "book_title": "Jacob",
+      "book_long_title": "The Book of Jacob",
+      "book_subtitle": "The Brother of Nephi",
+      "book_short_title": "Jacob",
+      "book_lds_url": "jacob"
+    },
+    {
+      "book_title": "Enos",
+      "book_long_title": "The Book of Enos",
+      "book_subtitle": "",
+      "book_short_title": "Enos",
+      "book_lds_url": "enos"
+    },
+    {
+      "book_title": "Jarom",
+      "book_long_title": "The Book of Jarom",
+      "book_subtitle": "",
+      "book_short_title": "Jarom",
+      "book_lds_url": "jarom"
+    },
+    {
+      "book_title": "Omni",
+      "book_long_title": "The Book of Omni",
+      "book_subtitle": "",
+      "book_short_title": "Omni",
+      "book_lds_url": "omni"
+    },
+    {
+      "book_title": "Words of Mormon",
+      "book_long_title": "Words of Mormon",
+      "book_subtitle": "",
+      "book_short_title": "W of M",
+      "book_lds_url": "w-of-m"
+    },
+    {
+      "book_title": "Mosiah",
+      "book_long_title": "The Book of Mosiah",
+      "book_subtitle": "",
+      "book_short_title": "Mosiah",
+      "book_lds_url": "mosiah"
+    },
+    {
+      "book_title": "Alma",
+      "book_long_title": "The Book of Alma",
+      "book_subtitle": "The Son of Alma",
+      "book_short_title": "Alma",
+      "book_lds_url": "alma"
+    },
+    {
+      "book_title": "Helaman",
+      "book_long_title": "The Book of Helaman",
+      "book_subtitle": "",
+      "book_short_title": "Hel.",
+      "book_lds_url": "hel"
+    },
+    {
+      "book_title": "3 Nephi",
+      "book_long_title": "The Third Book of Nephi",
+      "book_subtitle": "The Book of Nephi\nThe Son of Nephi, who was the Son of Helaman",
+      "book_short_title": "3 Ne.",
+      "book_lds_url": "3-ne"
+    },
+    {
+      "book_title": "4 Nephi",
+      "book_long_title": "The Fourth Book of Nephi",
+      "book_subtitle": "The Book of Nephi\nWho is the son of Nephi, one of the disciples of Jesus Christ",
+      "book_short_title": "4 Ne.",
+      "book_lds_url": "4-ne"
+    },
+    {
+      "book_title": "Mormon",
+      "book_long_title": "The Book of Mormon",
+      "book_subtitle": "",
+      "book_short_title": "Morm.",
+      "book_lds_url": "morm"
+    },
+    {
+      "book_title": "Ether",
+      "book_long_title": "The Book of Ether",
+      "book_subtitle": "",
+      "book_short_title": "Ether",
+      "book_lds_url": "ether"
+    },
+    {
+      "book_title": "Moroni",
+      "book_long_title": "The Book of Moroni",
+      "book_subtitle": "",
+      "book_short_title": "Moro.",
+      "book_lds_url": "moro"
+    },
+    {
+      "book_title": "Doctrine and Covenants",
+      "book_long_title": "The Doctrine and Covenants",
+      "book_subtitle": "of the Church of Jesus Christ of Latter-day Saints",
+      "book_short_title": "D&C",
+      "book_lds_url": "dc"
+    },
+    {
+      "book_title": "Moses",
+      "book_long_title": "Selections from the Book of Moses",
+      "book_subtitle": "",
+      "book_short_title": "Moses",
+      "book_lds_url": "moses"
+    },
+    {
+      "book_title": "Abraham",
+      "book_long_title": "The Book of Abraham",
+      "book_subtitle": "Translated from the papyrus, by Joseph Smith",
+      "book_short_title": "Abr.",
+      "book_lds_url": "abr"
+    },
+    {
+      "book_title": "Joseph Smith--Matthew",
+      "book_long_title": "Joseph Smith--Matthew",
+      "book_subtitle": "",
+      "book_short_title": "JS-M",
+      "book_lds_url": "js-m"
+    },
+    {
+      "book_title": "Joseph Smith--History",
+      "book_long_title": "Joseph Smith--History",
+      "book_subtitle": "Extracts from The History of Joseph Smith, the Prophet",
+      "book_short_title": "JS-H",
+      "book_lds_url": "js-h"
+    },
+    {
+      "book_title": "Articles of Faith",
+      "book_long_title": "The Articles of Faith",
+      "book_subtitle": "Of The Church of Jesus Christ of Latter-day Saints",
+      "book_short_title": "A of F",
+      "book_lds_url": "a-of-f"
+    }
+  ]
+}
